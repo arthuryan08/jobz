@@ -1,4 +1,4 @@
-import { describe, it, expect, beforeEach, vi, afterEach } from 'vitest'
+import { describe, it, expect, beforeEach, vi } from 'vitest'
 import { renderWithProviders, screen, waitFor } from '@/shared/test/test-utils'
 import { Dashboard } from './Dashboard'
 import { useAuthStore } from '@/stores'

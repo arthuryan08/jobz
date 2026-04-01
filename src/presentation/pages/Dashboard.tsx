@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom'
 import {
-  ArrowRightLeft, TrendingUp, TrendingDown, Eye, EyeOff, Wallet,
+  ArrowRightLeft, Eye, EyeOff, Wallet,
   CreditCard, Search,
 } from 'lucide-react'
 import { useState, useMemo } from 'react'
