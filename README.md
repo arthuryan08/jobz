@@ -14,7 +14,7 @@
 
 ## Demo
 
-[Live on Vercel](#) <!-- Replace with actual URL after deploy -->
+[Live on Vercel](https://jobz-xi.vercel.app/login)
 
 **Credentials:** `user@onda.com` / `123456`
 
