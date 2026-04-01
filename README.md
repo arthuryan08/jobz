@@ -14,7 +14,7 @@
 
 ## Demo
 
-[Live on Vercel](https://jobz-xi.vercel.app/login)
+<a href="https://jobz-xi.vercel.app/login" target="_blank">Live on Vercel</a>
 
 **Credentials:** `user@onda.com` / `123456`
 
